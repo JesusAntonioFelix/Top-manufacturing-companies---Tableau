@@ -9,3 +9,7 @@ https://public.tableau.com/views/Topmanufacturingcompanies/Dashboard1?:language=
 # Tools Used
 Tableau: For creating visualizations, charts, and graphs based on the data.
 
+# Data source
+
+https://www.kaggle.com/datasets/c9a3bde2e725b7a2f0a382ffc6d7e5126810936e953ff88b419f61df8f8e3a47
+
